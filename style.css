@@ -1,0 +1,56 @@
+
+* {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+    color: red;
+
+
+}
+
+h2 {
+    color: green;
+    font-weight: 700;
+}
+.recipe-titles {
+
+    font-size: 32px;
+    color: rgb(0, 110, 255);
+}
+
+.food {
+    width: auto;
+    height: 300px;
+    align
+}
+
+
+ul {
+
+    text-align: center;
+}
+
+li {
+    /* list-style-type: none; */
+
+
+}
+
+.ingredients {
+    color: rgb(56, 56, 56);
+    font-size: 14px;
+    text-align: left;
+}
+
+.instructions {
+    color: rgb(58, 58, 85);
+    font-size: 11px;
+}
+
+#home {
+    text-align: center;
+
+}
